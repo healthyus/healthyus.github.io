@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Healthyus"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/healthyus
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
