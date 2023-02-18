@@ -1,0 +1,18 @@
+---
+title: "Research & Development"
+image: profile.jpg
+about:
+  template: broadside
+  image-shape: rounded
+  image-width: 15em  
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/healthyus
+---
+
+
+Our product has undergone extensive research, including clinical trials that demonstrate an accuracy rate of over 95%. Our product has been recognized by leading medical institutions and researchers, and we are committed to ongoing research and development to ensure that our product remains at the forefront of medical technology. We believe that our product has the potential to save countless lives, and we are excited to continue our research to improve its accuracy and effectiveness.
+
+ETRI, which is our partner, has been published in leading medical journals, and ETRI has presented its findings at conferences around the world. We are committed to transparency in our research and are always happy to share our findings with other researchers and healthcare providers.
+

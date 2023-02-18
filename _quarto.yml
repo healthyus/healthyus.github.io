@@ -5,13 +5,26 @@ project:
 website:
   title: "Healthyus"
   navbar:
+    background: primary    
+    left:
+      - text: "About US"
+        href: about.qmd
+      - text: "Product & Service"
+        href: product.qmd
+      - text: "Research & Development"
+        href: research.qmd
+      - text: "Contact Us"
+        href: contact.qmd
+
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/healthyus
+
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: slate
+      dark: cosmo
     css: styles.css
 
 editor: visual

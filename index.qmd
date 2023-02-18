@@ -1,12 +1,13 @@
 ---
 title: "Healthyus"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+image: images/healthyus_logo.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em  
+
 ---
+
+# Beyond X-Ray
+
+Welcome to our healthyus startup dedicated to early lung cancer detection through VOCs data, sensor array, and AI algorithms. We have developed a product that uses cutting-edge technology to identify the presence of lung cancer with high accuracy. Our Volatile Organic Compound (VoC) and AI algorithm-based product is non-invasive, painless, and affordable, making it accessible to everyone. We believe that early detection is key to improving patients' chances of survival, and we are committed to making this technology available to all.

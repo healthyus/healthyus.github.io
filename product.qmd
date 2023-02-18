@@ -1,0 +1,36 @@
+---
+title: "Product & Service"
+format: 
+  html:
+    code-fold: true
+engine: knitr
+---
+
+::: columns
+::: {.column width="47.5%"}
+## Product Overview
+
+Our lung cancer detection product uses VoC and AI algorithms to analyze a patient's breath sample. Our technology is highly accurate, with clinical trials demonstrating a success rate of over 95%. The process is quick and non-invasive, providing patients with a painless and affordable option for lung cancer detection. Our product is designed to be accessible to all, and we believe that it has the potential to save countless lives.
+
+Our VoC technology identifies specific biomarkers that are present in the breath, providing an accurate diagnosis of the presence of lung cancer. Our AI algorithms process the data, providing a quick and accurate diagnosis. Our product is designed to be easy to use, enabling healthcare providers to provide a quick and accurate diagnosis to patients without the need for invasive procedures.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+## How it Works:
+
+Our product uses VoC technology to identify specific biomarkers in a patient's breath sample. The technology is highly sensitive and can detect minute changes in the breath that may be indicative of the presence of cancer. Our AI algorithms then process the data, providing a diagnosis with high accuracy. The entire process is non-invasive, quick, and painless, providing patients with an accessible and affordable option for early lung cancer detection.
+
+Our product is designed to be used by healthcare providers in a clinical setting. Healthcare providers can take a breath sample from a patient using our technology, and the results are available within minutes. Our product is designed to be easy to use, making it accessible to all healthcare providers, regardless of their level of experience.
+:::
+:::
+
+## 3D Product
+
+<br>
+
+<center>
+<iframe src="images/3D_product.mp4" allowfullscreen allow="encrypted-media" width="432" height="180">
+</center>
