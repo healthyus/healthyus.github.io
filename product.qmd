@@ -27,7 +27,10 @@ Our product is designed to be used by healthcare providers in a clinical setting
 :::
 :::
 
-## 3D Product
+## Lung Cancer Detector
+
+Healthyus olfactory sensor products and services has been developed to detect lung cancer as early as possible. Compared to conventional lung cancer tests such as breast X-ray images, CT images, and blood tests, this product provides really simple and untact diagnostics for lung cancer based on sensor array and pattern recognition using compounds in exhaled breath gases.
+
 
 <br>
 

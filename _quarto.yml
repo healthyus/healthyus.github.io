@@ -4,17 +4,19 @@ project:
 
 website:
   title: "Healthyus"
+  favicon: "images/favicon/android-chrome-256x256.png"  
   navbar:
     background: primary    
+    logo: "images/favicon/android-chrome-256x256.png"
     left:
-      - text: "About US"
-        href: about.qmd
       - text: "Product & Service"
         href: product.qmd
       - text: "Research & Development"
         href: research.qmd
-      - text: "Contact Us"
-        href: contact.qmd
+      - text: "About US"
+        href: about.qmd
+      - text: "Blog"
+        href: blog.qmd        
 
     right:
       - icon: github
@@ -23,8 +25,8 @@ website:
 format:
   html:
     theme: 
-      light: slate
-      dark: cosmo
+      light: cosmo
+      dark: slate
     css: styles.css
 
 editor: visual
